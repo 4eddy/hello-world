@@ -1,3 +1,4 @@
-This is Eddy doing change to readme.md 
+Hi from mainThis is Eddy doing change to readme.md 
 # hello-world
-practice new thing
+practice new theng
+Hi from main!
